@@ -1,8 +1,7 @@
 .idea
 *.iml
 out
-*.xml
-
-
+*,xml
+secret.txt
 
 
